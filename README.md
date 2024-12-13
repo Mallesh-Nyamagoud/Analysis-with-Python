@@ -59,13 +59,16 @@ The goal of this analysis is to:
 3. **Enhance Customer Engagement at Night**: Since the highest revenue is generated during night orders, offering exclusive late-night deals could increase order volume.
 4. **Experiment with Menu Diversity**: Try introducing more variations of top-rated dishes (e.g., new versions of Grilled Chicken) and collect user feedback to further improve the menu.
 
+
+
+
+
 ## Repository Structure
 
 - **`UserDetails.csv`**: User demographic data.
 - **`CookingSessions.csv`**: Data on cooking sessions and their ratings.
 - **`OrderDetails.csv`**: Data related to orders placed by users.
 - **`Analysis.ipynb`**: Jupyter notebook for data analysis and visualizations.
-- **`visualizations/`**: Folder containing generated plots and graphs.
 - **`README.md`**: This document summarizing the analysis and insights.
 
 ## How to Run the Code
